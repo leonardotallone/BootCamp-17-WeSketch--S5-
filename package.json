@@ -1,0 +1,14 @@
+{
+  "name": "we-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^4.4.1"
+  }
+}
